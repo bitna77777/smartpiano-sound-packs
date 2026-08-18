@@ -1,0 +1,22 @@
+{
+  "generatedAtUtc": "2026-08-18T12:42:21+00:00",
+  "packs": [
+    {
+      "displayNameEn": "Splendid Mobile Alternate",
+      "displayNameKo": "Splendid 모바일 대체 음색",
+      "downloadBytes": 8113112,
+      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/piano-packs-v1.0.0/piano-grand-splendid-mobile-alt-1.0.0.spack",
+      "installedSampleBytes": 8091222,
+      "instrumentId": 48,
+      "minAppVersionCode": 2,
+      "minEngineSchemaVersion": 1,
+      "packId": "piano.grand.splendid.mobile.alt",
+      "packVersion": "1.0.0",
+      "qualityTier": "ALTERNATE",
+      "requiredFreeBytes": 18204334,
+      "sampleFileCount": 88,
+      "sha256": "8daab90925229d42378cb0d4292704109c5837918af537aa222a47b71835e88e"
+    }
+  ],
+  "schemaVersion": 1
+}
