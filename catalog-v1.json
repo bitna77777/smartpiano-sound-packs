@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-18T12:42:21+00:00",
+  "generatedAtUtc": "2026-08-19T07:34:14+00:00",
   "packs": [
     {
       "displayNameEn": "Splendid Mobile Alternate",
@@ -16,6 +16,22 @@
       "requiredFreeBytes": 18204334,
       "sampleFileCount": 88,
       "sha256": "8daab90925229d42378cb0d4292704109c5837918af537aa222a47b71835e88e"
+    },
+    {
+      "displayNameEn": "FreePats Kawai Upright HQ",
+      "displayNameKo": "FreePats Kawai Upright HQ",
+      "downloadBytes": 2184000,
+      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/piano-packs-v1.1.0/piano-kawai-freepats-stereo2-hq-1.0.0.spack",
+      "installedSampleBytes": 2166421,
+      "instrumentId": 0,
+      "minAppVersionCode": 2,
+      "minEngineSchemaVersion": 1,
+      "packId": "piano.kawai.freepats.stereo2.hq",
+      "packVersion": "1.0.0",
+      "qualityTier": "UPGRADE",
+      "requiredFreeBytes": 6350421,
+      "sampleFileCount": 66,
+      "sha256": "52e62767c7d78e77f9ed5f456675cdacce6cf568bd21cf8f66ac4e96b0809cd4"
     }
   ],
   "schemaVersion": 1

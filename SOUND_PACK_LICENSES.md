@@ -14,3 +14,17 @@
 The same provenance is embedded in `licenses.json` inside the `.spack` file.
 The catalog signature authenticates the exact pack hash; it does not alter the
 source audio's public-domain status.
+
+## FreePats Kawai Upright HQ 1.0.0
+
+- Recorded instrument: Kawai upright piano
+- Source project: `freepats/upright-piano-kw`
+- Pinned source revision: `570f6c60ed2eff67accad3b85d5b452e57a3ad28`
+- Creators: Gonzalo and Roberto; processing by Roberto
+- Source license: CC0-1.0
+- Smart Piano changes: preserve 44.1 kHz/24-bit stereo and both recorded
+  velocities, apply uniform -1.7 dB headroom, encode OGG Vorbis q6, and cap
+  loop-authored long sources at 5.25 seconds with a 0.25-second tail fade
+
+The same provenance and processing disclosure are embedded in the pack's
+`licenses.json`.

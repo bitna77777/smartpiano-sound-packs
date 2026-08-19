@@ -24,3 +24,13 @@ Tag: `piano-packs-v1.0.0`
 The audio is derived from the public-domain Splendid Grand Piano source pinned
 in Smart Piano's source manifest. The pack contains 88 true-stereo OGG samples
 (22 pitches x 4 recorded dynamics).
+
+## Kawai Upright HQ release
+
+Tag: `piano-packs-v1.1.0`
+
+- `piano-kawai-freepats-stereo2-hq-1.0.0.spack`
+- `piano-kawai-freepats-stereo2-hq-1.0.0.spack.sha256`
+
+This CC0-derived upgrade contains 66 true-stereo OGG samples with two recorded
+velocity layers. The bundled Kawai bank remains the offline fallback.
