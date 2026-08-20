@@ -28,3 +28,18 @@ source audio's public-domain status.
 
 The same provenance and processing disclosure are embedded in the pack's
 `licenses.json`.
+
+## Instrument expansion packs v1.2.0
+
+The 21 expansion packs use these pinned openly licensed sources:
+
+- TinySOL v5.0 (`zenodo-3685331-v5.0`), CC-BY-4.0: bowed strings, brass,
+  woodwinds, and accordion
+- Versilian Community Sample Library
+  (`c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e`), CC0-1.0: Yamaha upright,
+  Steinway grand, FM piano, harp, marimba, and vibraphone
+- FreePats Spanish Classical Guitar
+  (`6f4eb1b092acc88f5448cea1a0001bd07b971af8`), CC0-1.0: nylon guitar
+
+Each `.spack` embeds the exact recorded instrument, creator, source URL,
+source revision, mobile processing disclosure, license URL, and per-sample checksums.

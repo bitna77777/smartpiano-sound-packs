@@ -3,11 +3,13 @@
 This repository hosts signed, immutable optional sound packs for Smart Piano.
 The bundled Salamander Mobile Grand remains the application's offline default.
 
-## Published catalog
+## Published catalogs
 
-- `catalog-v1.json`: current downloadable pack metadata
-- `catalog-v1.json.sig`: detached ECDSA P-256/SHA-256 signature, Base64 encoded
-- `catalog-public-key-base64.txt`: public verification key embedded by the app
+- `catalog-v2.json`: current downloadable pack metadata for app version 3+
+- `catalog-v2.json.sig`: detached ECDSA P-256/SHA-256 signature, Base64 encoded
+- `catalog-v2-public-key-base64.txt`: v2 public verification key embedded by app version 3+
+- `catalog-v1.json`, `.sig`, and `catalog-public-key-base64.txt`: immutable legacy
+  catalog/key retained for already-installed app versions
 - `SOUND_PACK_LICENSES.md`: source provenance and processing disclosure
 
 Release assets are immutable. A changed pack receives a new semantic version,
@@ -34,3 +36,11 @@ Tag: `piano-packs-v1.1.0`
 
 This CC0-derived upgrade contains 66 true-stereo OGG samples with two recorded
 velocity layers. The bundled Kawai bank remains the offline fallback.
+
+## Complete instrument expansion release
+
+Tag: `instrument-packs-v1.2.0`
+
+Twenty-one audited upgrade packs cover the remaining piano, string, brass, wind,
+mallet, accordion, harp, and nylon-guitar expansions. Together with Kawai Upright HQ,
+all 22 current upgrade expansions are listed in the signed v2 catalog.
