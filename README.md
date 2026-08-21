@@ -56,3 +56,13 @@ This CC0-derived upgrade contains 48 true-stereo OGG samples: eight core
 acoustic pieces with three recorded dynamics and two alternates each. It
 requires app version code 5 or newer. The bundled Studio Drum Kit remains the
 offline default.
+
+## Drum kit balance update
+
+Tag: `drum-packs-v1.3.1`
+
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.1.spack`
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.1.spack.sha256`
+
+Version 1.0.1 remasters the previously under-level hi-hat and ride layers while retaining
+the same source recordings and kit structure.
