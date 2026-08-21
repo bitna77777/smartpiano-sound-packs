@@ -43,3 +43,18 @@ The 21 expansion packs use these pinned openly licensed sources:
 
 Each `.spack` embeds the exact recorded instrument, creator, source URL,
 source revision, mobile processing disclosure, license URL, and per-sample checksums.
+
+## Drum kit expansion pack v1.3.0
+
+Virtuosity Acoustic Drums HQ uses this pinned openly licensed source:
+
+- Virtuosity Drums (`9f04cf9a734527edfbb0a4eee1f674e45bbf71bc`), CC0-1.0:
+  mid-position recordings of the eight core kit pieces
+
+Mobile processing: select three recorded velocities with two alternates per
+piece, normalize each piece to a common loudness target, apply the bundled
+phone-speaker kick presence treatment, cap sample length at 4.8 seconds with a
+0.3-second tail fade, and encode OGG Vorbis q5.
+
+The same provenance and processing disclosure are embedded in the pack's
+`licenses.json`.
