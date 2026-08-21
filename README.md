@@ -44,3 +44,15 @@ Tag: `instrument-packs-v1.2.0`
 Twenty-one audited upgrade packs cover the remaining piano, string, brass, wind,
 mallet, accordion, harp, and nylon-guitar expansions. Together with Kawai Upright HQ,
 all 22 current upgrade expansions are listed in the signed v2 catalog.
+
+## Drum kit expansion release
+
+Tag: `drum-packs-v1.3.0`
+
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.0.spack`
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.0.spack.sha256`
+
+This CC0-derived upgrade contains 48 true-stereo OGG samples: eight core
+acoustic pieces with three recorded dynamics and two alternates each. It
+requires app version code 5 or newer. The bundled Studio Drum Kit remains the
+offline default.
