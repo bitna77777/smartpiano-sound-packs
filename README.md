@@ -45,6 +45,16 @@ Twenty-one audited upgrade packs cover the remaining piano, string, brass, wind,
 mallet, accordion, harp, and nylon-guitar expansions. Together with Kawai Upright HQ,
 all 22 current upgrade expansions are listed in the signed v2 catalog.
 
+## Accordion balance update
+
+Tag: `instrument-packs-v1.2.1`
+
+- `keys-accordion-tinysol-mono3-hq-1.0.1.spack`
+- `keys-accordion-tinysol-mono3-hq-1.0.1.spack.sha256`
+
+Version 1.0.1 repairs the B3, C4, B4 and G5-mapping lower dynamics using the verified
+strong recordings at the neighbouring-pitch −44/−33/−22 dB velocity contour.
+
 ## Drum kit expansion release
 
 Tag: `drum-packs-v1.3.0`

@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-21T12:21:24+00:00",
+  "generatedAtUtc": "2026-08-21T12:38:54+00:00",
   "packs": [
     {
       "displayNameEn": "Splendid Mobile Alternate",
@@ -116,18 +116,18 @@
     {
       "displayNameEn": "TinySOL Accordion HQ",
       "displayNameKo": "TinySOL Accordion HQ",
-      "downloadBytes": 9076886,
-      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/instrument-packs-v1.2.0/keys-accordion-tinysol-mono3-hq-1.0.0.spack",
-      "installedSampleBytes": 9019035,
+      "downloadBytes": 9128696,
+      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/instrument-packs-v1.2.1/keys-accordion-tinysol-mono3-hq-1.0.1.spack",
+      "installedSampleBytes": 9069163,
       "instrumentId": 6,
       "minAppVersionCode": 3,
       "minEngineSchemaVersion": 1,
       "packId": "keys.accordion.tinysol.mono3.hq",
-      "packVersion": "1.0.0",
+      "packVersion": "1.0.1",
       "qualityTier": "UPGRADE",
-      "requiredFreeBytes": 20095921,
+      "requiredFreeBytes": 20197859,
       "sampleFileCount": 240,
-      "sha256": "1c1d747e3df330f8f0a61336863364cdea794f7cb6b0b4dce9d65db97d5e8eb6"
+      "sha256": "73235ec432f776e82dfe8092e1d91ada1b4316104d92f1b06ce0df11d517f811"
     },
     {
       "displayNameEn": "VCSL Marimba HQ",
