@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-21T12:38:54+00:00",
+  "generatedAtUtc": "2026-08-21T12:51:39+00:00",
   "packs": [
     {
       "displayNameEn": "Splendid Mobile Alternate",
@@ -372,18 +372,18 @@
     {
       "displayNameEn": "Virtuosity Acoustic Drums HQ",
       "displayNameKo": "Virtuosity Acoustic Drums HQ",
-      "downloadBytes": 2594701,
-      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/drum-packs-v1.3.1/drums-virtuosity-mid-stereo3rr2-hq-1.0.1.spack",
-      "installedSampleBytes": 2564358,
+      "downloadBytes": 2640365,
+      "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/drum-packs-v1.3.2/drums-virtuosity-mid-stereo3rr2-hq-1.0.2.spack",
+      "installedSampleBytes": 2609650,
       "instrumentId": -777,
       "minAppVersionCode": 5,
       "minEngineSchemaVersion": 1,
       "packId": "drums.virtuosity.mid.stereo3rr2.hq",
-      "packVersion": "1.0.1",
+      "packVersion": "1.0.2",
       "qualityTier": "UPGRADE",
-      "requiredFreeBytes": 7159059,
+      "requiredFreeBytes": 7250015,
       "sampleFileCount": 48,
-      "sha256": "0c753f5a71ed4a0a8660f74ae56fdd8446b57ff28a8e07f75b9d90c621f0fd06"
+      "sha256": "f78c3f9b1b7c1e771889f367c8d9938151f68e9b800009023aded64274eea3f2"
     }
   ],
   "schemaVersion": 1

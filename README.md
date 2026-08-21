@@ -76,3 +76,13 @@ Tag: `drum-packs-v1.3.1`
 
 Version 1.0.1 remasters the previously under-level hi-hat and ride layers while retaining
 the same source recordings and kit structure.
+
+## Drum kit snare and crash balance update
+
+Tag: `drum-packs-v1.3.2`
+
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.2.spack`
+- `drums-virtuosity-mid-stereo3rr2-hq-1.0.2.spack.sha256`
+
+Version 1.0.2 raises the under-level snare and crash layers. It preserves the 1.0.1
+hi-hat and ride mastering, the original recordings, and the existing kit mapping.
