@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-31T02:22:26+00:00",
+  "generatedAtUtc": "2026-08-31T03:41:51+00:00",
   "packs": [
     {
       "displayNameEn": "TinySOL Solo French Horn HQ",
@@ -89,7 +89,7 @@
       "displayNameEn": "Virtuosity Acoustic Drums HQ",
       "displayNameKo": "Virtuosity Acoustic Drums HQ",
       "instrumentId": -777,
-      "latestVersion": "1.0.2",
+      "latestVersion": "1.0.3",
       "packId": "drums.virtuosity.mid.stereo3rr2.hq",
       "qualityTier": "UPGRADE",
       "revisions": [
@@ -125,6 +125,17 @@
           "requiredFreeBytes": 7249594,
           "sampleFileCount": 48,
           "sha256": "5b003830cf722c326e3f3a973fb086851ad43565bb90960aea429faa2151f361"
+        },
+        {
+          "downloadBytes": 2671383,
+          "downloadUrl": "https://github.com/bitna77777/smartpiano-sound-packs/releases/download/drum-packs-v1.3.4/drums-virtuosity-mid-stereo3rr2-hq-1.0.3.spack",
+          "installedSampleBytes": 2632303,
+          "minAppVersionCode": 3,
+          "minEngineSchemaVersion": 1,
+          "packVersion": "1.0.3",
+          "requiredFreeBytes": 7303686,
+          "sampleFileCount": 48,
+          "sha256": "3a517356cd92f7434eb9a66d91a2b2fe23e8e82093392e911d75319527b77042"
         }
       ]
     },
